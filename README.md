@@ -28,6 +28,3 @@ This tool helps Agile teams and project managers estimate the **project risk lev
 - **Scikit-learn**
 - **Pandas**
 - **NumPy**
-
-## 📁 File Structure
-
