@@ -79,6 +79,3 @@ if submitted:
 
     st.success(f"📢 **Predicted Project Risk Level:** {final_label}")
     st.info("This prediction is based on simulated historical project patterns.")
-
-st.markdown("---")
-st.caption("Built for final year project — BTech Data Analytics")
